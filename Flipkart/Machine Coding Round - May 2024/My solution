@@ -1,4 +1,5 @@
-Attaching all java files here as one. 
+//Attaching all java files here as one. There are totally 5 class files
+//Topic, Question, Answer, QnAPlatform, Main
 
 import java.util.HashSet;
 import java.util.Set;
